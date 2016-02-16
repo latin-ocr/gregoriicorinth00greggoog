@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gregoriicorinth00greggoog_0010.png"; bbox 0 0 2734 4696; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 357 1357 992 1469">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 357 1357 992 1469">
+     <span class='ocr_line' id='line_1_1' title="bbox 357 1357 992 1469; baseline -0.002 -39"><span class='ocrx_word' id='word_1_1' title='bbox 357 1359 616 1432; x_wconf 65' lang='lat' dir='ltr'><strong>mmm</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 663 1357 992 1469; x_wconf 66' lang='lat' dir='ltr'>stv1s31Mo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 164 1679 1196 1802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 164 1679 1196 1802">
+     <span class='ocr_line' id='line_1_2' title="bbox 164 1679 1196 1802; baseline 0.001 -11"><span class='ocrx_word' id='word_1_3' title='bbox 164 1682 613 1795; x_wconf 90' lang='lat' dir='ltr'><strong>CAROLO</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 708 1679 1196 1802; x_wconf 83' lang='lat' dir='ltr'>WEIGELIO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 266 3847 1113 3976">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 266 3847 1113 3976">
+     <span class='ocr_line' id='line_1_3' title="bbox 266 3847 1113 3976; baseline -0.028 -36"><span class='ocrx_word' id='word_1_5' title='bbox 266 3863 355 3940; x_wconf 88' lang='lat'><strong>10.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 416 3851 568 3936; x_wconf 80' lang='lat' dir='ltr'>AVG.</span> <span class='ocrx_word' id='word_1_7' title='bbox 612 3849 822 3928; x_wconf 86' lang='lat' dir='ltr'><strong>GOTTL.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 864 3847 1113 3976; x_wconf 59' lang='lat' dir='ltr'><strong>WEIGEL.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1372 4696">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1372 4696">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1372 4696; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1372 4696; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
